@@ -1,0 +1,2 @@
+ase==3.18.1
+amp-atomistics==0.6.1
